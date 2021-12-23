@@ -38,7 +38,7 @@ Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 
 </br>
 
 ## 😄 More Information 😄
-<a href="https://14blacktea.tistory.com/"> <img src="https://img.shields.io/badge/Visit-white?style=flat-square&logo=Visit&logoColor=black"/> </a></br>
+<a href="https://14blacktea.tistory.com/"> <img src="https://img.shields.io/badge/Visit-white?style=flat-square&logo=VisitMyBlog!!!!&logoColor=black"/> </a></br>
 
 <!--
 **14blacktea/14blacktea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
