@@ -3,6 +3,8 @@
 안녕하세요! </br>
 Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 제작부터 서빙까지 프로젝트를 통해 작게 나마 경험을 해보았으며, 주로 모델 학습 시 필요한 Data 제작과 관련하여 프로젝트를 많이 진행해보았습니다. 머신러닝 모델과 관련하여 반복되는 일을 줄이고 자동화되도록 개선하는 MLops에 관심이 많습니다.
 
+</br>
+
 ## SKILLS 📫
 <table>
 
@@ -32,6 +34,8 @@ Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 
 </tr>
 
 </table>
+
+</br>
 
 ## More Information 😄
 <a href="https://14blacktea.tistory.com/"> <img src="https://img.shields.io/badge/Visit-white?style=flat-square&logo=Visit&logoColor=black"/> </a></br>
