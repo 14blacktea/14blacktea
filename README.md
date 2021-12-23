@@ -14,7 +14,7 @@ Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 
 데이터베이스
  
 <br>
-기타 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/>
+기타 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/>
 
 ## CONTACT 😄
 
