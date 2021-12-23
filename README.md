@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## Sangwon Lee 👋
 
 안녕하세요! </br>
@@ -40,7 +34,7 @@ Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 
 </table>
 
 ## More Information 😄
-Please visit my blog! <&nbsp><&nbsp>
+Please visit my blog!  
 <a href="https://14blacktea.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Visit-white?style=flat-square&logo=Visit&logoColor=black"/>
 </a>
