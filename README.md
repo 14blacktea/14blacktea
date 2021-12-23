@@ -1,5 +1,5 @@
 <style>
-td {
+td, th {
    border: none!important;
 }
 </style>
@@ -40,9 +40,7 @@ Vision A.I를 중점적으로 공부하고 있는 이상원입니다. 데이터 
 </table>
 
 ## More Information 😄
-Please visit my blog!
-</br>
-</br>
+Please visit my blog! <&nbsp><&nbsp>
 <a href="https://14blacktea.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Visit-white?style=flat-square&logo=Visit&logoColor=black"/>
 </a>
